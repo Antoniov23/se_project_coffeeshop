@@ -135,7 +135,6 @@
   background-image: url(../images/background_reservation.svg);
   background-repeat: no-repeat;
   background-position: center;
-  size: cover;
 }
 
 .reservation__title {
@@ -179,7 +178,6 @@
   border: none;
   padding: 20px 0;
   margin: 0 auto 32px;
-  margin-bottom: 0 auto 32px;
   background-color: #1878dc;
   font-family: "Inter", "Ariel";
   font-style: normal;
