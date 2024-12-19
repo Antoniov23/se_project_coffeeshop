@@ -3,7 +3,7 @@
   height: 800px;
   display: flex;
   flex-direction: column;
-  background-image: url(../images/background_header.svg);
+  background-image: url(../images_change/background_header.svg);
   box-sizing: border-box;
   position: relative;
   background-size: cover;
@@ -28,7 +28,7 @@
 }
 
 .header__span-accent {
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
@@ -52,6 +52,11 @@
   justify-content: space-between;
   align-items: flex-end;
   color: #6f6f6f;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .header__paragraph {
