@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+One thing I would want to improve on the webpage is. I would make it more visually impaired for users that have a hard time with vision. Adding a magnifying cursor as the user would hover over text or images would be helpful to the user.

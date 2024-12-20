@@ -10,6 +10,9 @@
   color: #fff;
   background-color: #0a2750;
   padding: 100px 80px 215px;
+  background-image: url(../images_change/background_recipes.svg);
+  background-position: center;
+  background-size: cover;
 }
 
 .recipes__title {
